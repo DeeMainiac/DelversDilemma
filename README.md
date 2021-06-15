@@ -1,5 +1,5 @@
 # DD
- GGJ2021 and Forge Jam X entry source code. Non-violent 2d game. Made in Unity 2020.2.1f1
+ Global Game Jam 2021 and Forge Jam X entry source code. Non-violent 2d game. Made in Unity 2020.2.1f1
 
 # Info
 
