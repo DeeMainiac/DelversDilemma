@@ -24,7 +24,7 @@ Hold the spacebar down to dig up the treasure when there's a high tone.
 Code, Character Sprites, Animations, Writing by: Delaney Stamper
 
 https://delaney-stamper.weebly.com/
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Tilemap by Kutejnikov: https://opengameart.org/content/ground-tilemap
 
 rpg/roguelike items by Joe Williamson @JoeCreates: https://opengameart.org/content/roguelikerpg-items
@@ -38,7 +38,7 @@ Metal Detector Beep Sound by Amazing Brick Movies: https://freesound.org/people/
 People Sound Effects by: K1m218, LuckyBastard, Reitanna Seishin:
 https://freesound.org/people/K1m218/   https://freesound.org/people/Luckybastard/   https://freesound.org/people/Reitanna/
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Music was renamed to fit alliteration. You'll find their actual names and authors below.
 
 Dwelling - Town 3
